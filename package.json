@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mth-prog/projeto-whatsapp/issues"
   },
-  "homepage": "https://github.com/mth-prog/projeto-whatsapp#readme"
+  "homepage": "https://github.com/mth-prog/projeto-whatsapp#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
