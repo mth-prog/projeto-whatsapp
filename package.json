@@ -1,0 +1,19 @@
+{
+  "name": "projeto-whatsapp",
+  "version": "1.0.0",
+  "description": "Api de envio de Mensagem do whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mth-prog/projeto-whatsapp.git"
+  },
+  "author": "mth-prog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mth-prog/projeto-whatsapp/issues"
+  },
+  "homepage": "https://github.com/mth-prog/projeto-whatsapp#readme"
+}
